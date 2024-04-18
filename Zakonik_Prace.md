@@ -1,165 +1,8 @@
-# Zákoník práce 2024
+# Zákoník práce 2024 
 
-## Obsah: 
-Èást I.	 	Všeobecná ustanovení
-   Hlava 1.	§ 1 - § 5	Pøedmìt úpravy a vymezení pracovnìprávních vztahù
-   Hlava 2.	§ 6 - § 12	Smluvní strany základních pracovnìprávních vztahù
-   Hlava 3.	§ 13 - § 15	zrušena
-   Hlava 4.	§ 16 - § 17	Rovné zacházení a zákaz diskriminace
-   Hlava 5.	§ 18 - § 29	Nìkterá ustanovení o právním jednání
-Èást II.	 	Pracovní pomìr
-   Hlava 1.	§ 30 - § 32	Postup pøed vznikem pracovního pomìru
-   Hlava 2.	§ 33 - § 39	Pracovní pomìr, pracovní smlouva a vznik pracovního pomìru
-   Hlava 3.	§ 40 - § 47	Zmìny pracovního pomìru
-   Hlava 4.	§ 48 - § 73	Skonèení pracovního pomìru
-       Díl 1.	§ 48	Obecné ustanovení o rozvázání a skonèení pracovního pomìru
-       Díl 2.	§ 49	Dohoda
-       Díl 3.	§ 50 - § 54	Vıpovìï, vıpovìdní doba a vıpovìdní dùvody
-       Díl 4.	§ 55 - § 56	Okamité zrušení pracovního pomìru
-       Díl 5.	§ 57 - § 61	Spoleèná ustanovení o rozvázání pracovního pomìru
-       Díl 6.	§ 62 - § 64	Hromadné propouštìní
-       Díl 7.	§ 65 - § 66	Další pøípady skonèení pracovního pomìru
-       Díl 8.	§ 67 - § 68	Odstupné
-       Díl 9.	§ 69 - § 72	Neplatné rozvázání pracovního pomìru
-       Díl 10.	§ 73 - § 73a 	Odvolání z pracovního místa vedoucího zamìstnance nebo vzdání se tohoto místa
-Èást III.	§ 74 - § 77b	Dohody o pracích konanıch mimo pracovní pomìr
-Èást IV.	 	Pracovní doba a doba odpoèinku
-   Hlava 1.	§ 78 - § 80	Obecná ustanovení o pracovní dobì a délka pracovní doby
-   Hlava 2.	§ 81 - § 87	Rozvrení pracovní doby
-       Díl 1.	§ 81 - § 84	Základní ustanovení
-       Díl 2.	§ 85	Pruné rozvrení pracovní doby
-       Díl 3.	§ 86 - § 87	Konto pracovní doby
-   Hlava 3.	§ 88 - § 89	Pøestávka v práci a bezpeènostní pøestávka
-   Hlava 4.	§ 90 - § 92	Doba odpoèinku
-       Díl 1.	§ 90 - § 90a	Nepøetritı odpoèinek
-       Díl 2.	§ 91 	Dny pracovního klidu
-       Díl 3.	§ 92	Nepøetritı odpoèinek v tıdnu
-   Hlava 5.	§ 93 - § 93a	Práce pøesèas
-   Hlava 6.	§ 94	Noèní práce
-   Hlava 7.	§ 95	Pracovní pohotovost
-   Hlava 8.	§ 96 - § 99	Spoleèná ustanovení o pracovní dobì a dobì odpoèinku
-   Hlava 9.	§ 100	Zmocòovací ustanovení
-Èást V.	 	Bezpeènost a ochrana zdraví pøi práci
-   Hlava 1.	§ 101 - § 102	Pøedcházení ohroení ivota a zdraví pøi práci
-   Hlava 2.	§ 103 - § 106	Povinnosti zamìstnavatele, práva a povinnosti zamìstnance
-   Hlava 3.	§ 107 - § 108	Spoleèná ustanovení
-Èást VI.	 	Odmìòování za práci, odmìna za pracovní pohotovost a sráky z pøíjmù ze základního pracovnìprávního vztahu
-   Hlava 1.	§ 109 - § 112	Obecná ustanovení o mzdì, platu a odmìnì z dohod
-   Hlava 2.	§ 113 - § 121	Mzda
-   Hlava 3.	§ 122 - § 137	Plat
-   Hlava 4.	§ 138	Odmìna z dohody
-   Hlava 5.	§ 139	Mzda nebo plat pøi vıkonu jiné práce
-   Hlava 6.	§ 140	Odmìna za pracovní pohotovost
-   Hlava 7.	§ 141 - § 144a	Spoleèná ustanovení o mzdì, platu, odmìnì z dohod a odmìnì za pracovní pohotovost
-   Hlava 8.	§ 145 - § 150	Sráky z pøíjmu z pracovnìprávního vztahu
-       Díl 1.	§ 145 - § 146	Obecná ustanovení
-       Díl 2.	§ 147 - § 150	Poøadí sráek ze mzdy
-Èást VII.	 	Náhrada vıdajù v souvislosti s vıkonem práce
-   Hlava 1.	§ 151 - § 155	Obecná ustanovení o náhradách poskytovanıch zamìstnanci v souvislosti s vıkonem práce
-   Hlava 2.	§ 156 - § 172	Poskytnutí cestovních náhrad zamìstnanci zamìstnavatele, kterı není uveden v § 109 odst. 3
-       Díl 1.	§ 156 - § 164	Cestovní náhrady pøi pracovní cestì nebo pøi cestì mimo pravidelné pracovištì
-       Díl 2.	§ 165	Náhrady pøi pøeloení a doèasném pøidìlení
-       Díl 3.	§ 166 - § 171	Cestovní náhrady pøi zahranièní pracovní cestì
-       Díl 4.	§ 172	Náhrady pøi vıkonu práce v zahranièí
-   Hlava 3.	§ 173 - § 181	Poskytnutí cestovních náhrad zamìstnanci zamìstnavatele, kterı je uveden v § 109 odst. 3
-       Díl 1.	§ 173 - § 174	Obecná ustanovení
-       Díl 2.	§ 175 - § 176	Odchylky pøi poskytnutí cestovních náhrad pøi pracovní cestì
-       Díl 3.	§ 177 - § 178	Náhrada pøi pøijetí a pøeloení
-       Díl 4.	§ 179 - § 180	Odchylky pøi poskytnutí cestovních náhrad pøi zahranièní pracovní cestì
-       Díl 5.	§ 181	Náhrady pøi vıkonu práce v zahranièíNáhrady pøi vıkonu práce v zahranièí
-   Hlava 4.	§ 182 - § 189	Spoleèná ustanovení o cestovních náhradách
-   Hlava 5.	§ 190	Náhrada za opotøebení vlastního náøadí, zaøízení a pøedmìtù potøebnıch pro vıkon práce
-   Hlava 6.	§ 190a	Náhrady nákladù pøi vıkonu práce na dálku
-Èást VIII.	 	Pøekáky v práci
-   Hlava 1.	§ 191 - § 205	Pøekáky v práci na stranì zamìstnance
-       Díl 1.	§ 191 - § 199	Dùleité osobní pøekáky
-       Díl 2.	§ 200 - § 205	Pøekáky v práci z dùvodu obecného zájmu
-   Hlava 2.	§ 206	Spoleèné ustanovení o pøekákách v práci na stranì zamìstnance
-   Hlava 3.	§ 207 - § 210	Pøekáky v práci na stranì zamìstnavatele
-Èást IX.	 	Dovolená
-   Hlava 1.	§ 211	Základní ustanovení
-   Hlava 2.	§ 212 - § 214	Dovolená za kalendáøní rok, její pomìrná èást, vımìra dovolené a dovolená za odpracované dny
-       Díl 1.	§ 212 - § 213	Dovolená za kalendáøní rok a její pomìrná èást
-       Díl 2.	§ 214	Dovolená za odpracované dny
-   Hlava 3.	§ 215	Dodatková dovolená
-   Hlava 4.	§ 216 - § 223	Spoleèná ustanovení o dovolené
-       Díl 1.	§ 216	Obecné ustanovení 
-       Díl 2.	§ 217 - § 219	Èerpání dovolené
-       Díl 3.	§ 220	Hromadné èerání dovolené
-       Díl 4.	§ 221	Zmìna zamìstnání
-       Díl 5.	§ 222	Náhrada za dovolenou
-       Díl 6.	§ 223	Krácení dovolené
-Èást X.	 	Péèe o zamìstnance
-   Hlava 1.	§ 224 - § 226	Pracovní podmínky zamìstnancù
-   Hlava 2.	§ 227 - § 235	Odbornı rozvoj zamìstnancù
-   Hlava 3.	§ 236	Stravování zamìstnancù
-   Hlava 4.	§ 237 - § 247	Zvláštní pracovní podmínky nìkterıch zamìstnancù
-       Díl 1.	§ 237	Zamìstnávání fyzickıch osob se zdravotním postiením
-       Díl 2.	§ 238	Pracovní podmínky zamìstnankyò
-       Díl 3.	§ 239 - § 241a	Pracovní podmínky zamìstnankyò, zamìstnankyò-matek, zamìstnancù peèujících o dítì a o jiné fyzické osoby
-       Díl 4.	§ 242	Pøestávky ke kojení
-       Díl 5.	§ 243 - § 247	Pracovní podmínky mladistvıch zamìstnancù
-Èást XI.	 	Náhrada majetkové a nemajetkové újmy
-   Hlava 1.	§ 248 - § 249	Prevence
-   Hlava 2.	§ 250 - § 264	Povinnosti zamìstnance k náhradì škody
-       Díl 1.	§ 250	Obecná povinnost nahradit škodu 
-       Díl 2.	§ 251	Nesplnìní povinnosti k odvrácení škody
-       Díl 3.	§ 252 - § 256	Schodek na svìøenıch hodnotách, které je zamìstnanec povinen vyúètovat, a ztráta svìøenıch vìcí
-       Díl 4.	§ 257 - § 260	Rozsah a zpùsob náhrady škody
-       Díl 5.	§ 261 - § 264	Spoleèná ustanovení o povinnosti zamìstnance nahradit škodu
-   Hlava 3.	§ 265 - § 271	Povinnosti zamìstnavatele k náhradì škody
-       Díl 1.	§ 265	Obecná povinnost nahradit škodu
-       Díl 2.	§ 266	Odvracení škody
-       Díl 3.	§ 267	Odloené vìci
-       Díl 4.	§ 268	Rozsah a zpùsob náhrady škody
-       Díl 5.	§ 269 - § 271	Pracovní úrazy a nemoci z povolání
-Oddíl 2	§ 271a - § 271f	Druhy náhrad
-Oddíl 3	§ 271g - § 271j	Druhy náhrad pøi úmrtí zamìstnance
-Oddíl 4	§ 271k - § 271u	Spoleèná a zvláštní ustanovení o pracovních úrazech a nemocech z povolání
-   Hlava 4.	§ 272 - § 274	Spoleèná ustanovení o odpovìdnosti za škodu
-   Hlava 5.	§ 275	Zabezpeèení pøi pracovních úrazech a nemocech z povolání
-Èást XII.	 	Informování a projednání, pùsobnost odborové organizace, rada zamìstnancù a zástupce pro oblast bezpeènosti a ochrany zdraví pøi práci
-   Hlava 1.	§ 276 - § 277	Základní ustanovení
-   Hlava 2.	§ 278 - § 280	Informování a projednání
-   Hlava 3.	§ 281 - § 285	Rada zamìstnancù a zástupce pro oblast bezpeènosti a ochrany zdraví pøi práci
-   Hlava 4.	§ 286 - § 287	Pùsobnost odborové organizace
-   Hlava 5.	§ 288 - § 299	Pøístup k nadnárodním informacím
-Èást XIII.	 	Spoleèná ustanovení
-   Hlava 1.	§ 300	Mnoství práce a pracovní tempo
-   Hlava 2.	§ 301 - § 304	Základní povinnosti zamìstnancù a vedoucích zamìstnancù vyplıvající z pracovního pomìru nebo dohod o pracích konanıch mimo pracovní pomìr, jiné povinnosti zamìstnancù, zvláštní povinnosti nìkterıch zamìstnancù a vıkon jiné vıdìleèné èinnosti
-   Hlava 3.	§ 305 - § 306	Vnitøní pøedpis
-   Hlava 4.	§ 307	Mzdová, platová a ostatní práva
-   Hlava 5.	§ 308 - § 309	Agenturní zamìstnávání
-   Hlava 6.	§ 310 - § 311	Konkurenèní doloka
-   Hlava 7.	§ 312 - § 315	Osobní spis, potvrzení o zamìstnání a pracovní posudek
-   Hlava 8.	§ 316	Ochrana majetkovıch zájmù zamìstnavatele a ochrana osobních práv zamìstnance
-   Hlava 9.	§ 317 - § 319a	Zvláštní povaha práce nìkterıch zamìstnancù, vylouèení pracovnìprávního vztahu a vyslání k vıkonu práce na území jiného èlenského státu Evropské unie
-   Hlava 10.	§ 320 - § 323	Oprávnìní odborovıch organizací, organizací zamìstnavatelù a kontrola v pracovnìprávních vztazích
-   Hlava 11.	§ 324	zrušena
-   Hlava 12.	§ 325 - § 328	Smrt zamìstnance
-   Hlava 13.	§ 329 - § 333	Zánik práva, vrácení neprávem vyplacenıch èástek a uplynutí doby
-   Hlava 14.	§ 334 - § 337	Doruèování
-   Hlava 15.	§ 338 - § 345	Pøechod práv a povinností z pracovnìprávních vztahù a zánik práv a povinností z pracovnìprávních vztahù a pøechod vıkonu práv a povinností z pracovnìprávních vztahù
-       Díl 1.	§ 338 - § 342	Pøechod práv a povinností z pracovnìprávních vztahù a zánik práv a povinností z pracovnìprávních vztahù, je-li zamìstnavatelem fyzická osoba
-       Díl 2.	§ 343 - § 345a	Pøechod vıkonu práv a povinností z pracovnìprávních vztahù
-   Hlava 16.	§ 346	Zvláštní úprava pracovního pomìru zamìstnancù s pravidelnım pracovištìm v zahranièí
-   Hlava 17.	§ 346a - § 350b	Nìkterá ustanovení o závazcích a vıklad nìkterıch pojmù
-   Hlava 18.	§ 351 - § 362	Prùmìrnı vıdìlek
-       Díl 1.	§ 351 - § 353	Obecná ustanovení
-       Díl 2.	§ 354	Rozhodné období
-       Díl 3.	§ 355	Pravdìpodobnı vıdìlek
-       Díl 4.	§ 356	Formy prùmìrného vıdìlku
-       Díl 5.	§ 357 - § 362	Spoleèná ustanovení o prùmìrném vıdìlku
-   Hlava 19.	§ 363	Ustanovení, kterımi se zapracovávají pøedpisy Evropské unie a ustanovení, od kterıch není moné se odchılit
-Èást XIV.	 	Pøechodná a závìreèná ustanovení
-   Hlava 1.	§ 364	Pøechodná ustanovení
-       Díl 1.	§ 365 - § 393	Pojištìní odpovìdnosti a zvláštní ustanovení o povinnosti nahradit škodu a nemajetkovou újmu
-       Díl 2.	§ 393a	Pouití ustanovení o náhradì mzdy, platu nebo odmìny z dohody o pracovní èinnosti pøi doèasné pracovní neschopnosti (karanténì) a nìkterıch dalších ustanovení
-       Díl 3.	§ 394	Pouití provádìcích právních pøedpisù
-   Hlava 2.	§ 395 - § 396	Závìreèná ustanovení
-Pøechodná ustanovení	 	Pøechodná ustanovení
-Pøíloha	 	Charakteristiky platovıch tøíd
-Poznámky	 	Poznámky pod èarou
+Zdroj: https://www.pracomat.cz/poradna/zakonik-prace.html
+
+## Obsah (Summary): 
 
 ---
 ## Èást I.	 	Všeobecná ustanovení
@@ -202,6 +45,22 @@ Pracovnìprávní vztahy se øídí tímto zákonem; nelze-li pouít tento zákon, øídí s
 **§ 5**
 1. Na vztahy vyplıvající z vıkonu veøejné funkce se tento zákon vztahuje, pokud to vıslovnì stanoví nebo pokud to stanoví zvláštní právní pøedpisy.
 2. Jestlie je veøejná funkce vykonávána v pracovním pomìru, øídí se tento pracovní pomìr tímto zákonem.
+
+### Hlava 2.	§ 6 - § 12	Smluvní strany základních pracovnìprávních vztahù
+
+**§ 16**
+1. Zamìstnavatelé jsou povinni zajišovat rovné zacházení se všemi zamìstnanci, pokud jde o jejich pracovní podmínky, odmìòování za práci a o poskytování jinıch penìitıch plnìní a plnìní penìité hodnoty, o odbornou pøípravu a o pøíleitost dosáhnout funkèního nebo jiného postupu v zamìstnání.
+2. V pracovnìprávních vztazích je zakázána jakákoliv diskriminace, zejména diskriminace z dùvodu pohlaví, sexuální orientace, rasového nebo etnického pùvodu, národnosti, státního obèanství, sociálního pùvodu, rodu, jazyka, zdravotního stavu, vìku, náboenství èi víry, majetku, manelského a rodinného stavu a vztahu nebo povinností k rodinì, politického nebo jiného smıšlení, èlenství a èinnosti v politickıch stranách nebo politickıch hnutích, v odborovıch organizacích nebo organizacích zamìstnavatelù; diskriminace z dùvodu tìhotenství, mateøství, otcovství nebo pohlavní identifikace se povauje za diskriminaci z dùvodu pohlaví.
+3. Pojmy pøímá diskriminace, nepøímá diskriminace, obtìování, sexuální obtìování, pronásledování, pokyn k diskriminaci a navádìní k diskriminaci a pøípady, kdy je rozdílné zacházení pøípustné, upravuje antidiskriminaèní zákon108).
+4. Za diskriminaci se nepovauje rozdílné zacházení, pokud z povahy pracovních èinností vyplıvá, e toto rozdílné zacházení je podstatnım poadavkem nezbytnım pro vıkon práce; úèel sledovanı takovou vıjimkou musí bıt oprávnìnı a poadavek pøimìøenı. Za diskriminaci se rovnì nepovaují opatøení, jejich úèelem je odùvodnìno pøedcházení nebo vyrovnání nevıhod, které vyplıvají z pøíslušnosti fyzické osoby ke skupinì vymezené nìkterım z dùvodù uvedenıch v antidiskriminaèním zákonu.
+
+**§ 17**
+Právní prostøedky ochrany pøed diskriminací v pracovnìprávních vztazích upravuje antidiskriminaèní zákon.
+
+### Hlava 4.	§ 16 - § 17	Rovné zacházení a zákaz diskriminace
+
+### Hlava 5.	§ 18 - § 29	Nìkterá ustanovení o právním jednání
+
 ---
 ## Èást II.	 	Pracovní pomìr
 ---
@@ -244,6 +103,8 @@ U zamìstnance mladšího ne 18 let nesmí délka smìny v jednotlivıch dnech pøekroè
 **§ 80 - Kratší pracovní doba**
 Kratší pracovní doba pod rozsah stanovenı v § 79 mùe bıt sjednána pouze mezi zamìstnavatelem a zamìstnancem. Zamìstnanci pøísluší mzda nebo plat, které odpovídají sjednané kratší pracovní dobì.
 
+### Hlava 2.	§ 81 - § 87	Rozvrení pracovní doby
+
 **§ 81**
 1. Pracovní dobu rozvrhuje zamìstnavatel a urèí zaèátek a konec smìn.
 2. Pracovní doba se rozvrhuje zpravidla do pìtidenního pracovního tıdne. Pøi rozvrení pracovní doby je zamìstnavatel povinen pøihlédnout k tomu, aby toto rozvrení nebylo v rozporu s hledisky bezpeèné a zdraví neohroující práce.
@@ -283,6 +144,8 @@ b) rozvrh pracovní doby na jednotlivé pracovní dny vèetnì zaèátku a konce smìny 
 c) odpracovaná pracovní doba v jednotlivıch pracovních dnech a za tıden.
 3. Jestlie se pøi uplatnìní konta pracovní doby pouije kratší období, ne je uvedeno v § 86 odst. 3, musí bıt posuzován rozdíl mezi stanovenou tıdenní pracovní dobou, popøípadì kratší pracovní dobou a odpracovanou pracovní dobou po ukonèení tohoto kratšího období.
 
+### Hlava 3.	§ 88 - § 89	Pøestávka v práci a bezpeènostní pøestávka
+
 **§ 88** 
 1. Zamìstnavatel je povinen poskytnout zamìstnanci nejdéle po 6 hodinách nepøetrité práce pøestávku v práci na jídlo a oddech v trvání nejménì 30 minut; mladistvému zamìstnanci musí bıt tato pøestávka poskytnuta nejdéle po 4,5 hodinách nepøetrité práce. Jde-li o práce, které nemohou bıt pøerušeny, musí bıt zamìstnanci i bez pøerušení provozu nebo práce zajištìna pøimìøená doba na oddech a jídlo; tato doba se zapoèítává do pracovní doby. Mladistvému zamìstnanci musí vdy bıt poskytnuta pøestávka na jídlo a oddech podle vìty první.
 2. Byla-li pøestávka v práci na jídlo a oddech rozdìlena, musí alespoò jedna její èást èinit nejménì 15 minut.
@@ -306,6 +169,8 @@ c) pøi poskytování slueb obyvatelstvu, zejména
 5. v zaøízeních sociálních slueb22a),
 d) u naléhavıch opravnıch prací, jde-li o odvrácení nebezpeèí pro ivot nebo zdraví zamìstnancù,
 e) pøi ivelních událostech a v jinıch obdobnıch mimoøádnıch pøípadech.
+
+### Hlava 4.	§ 90 - § 92	Doba odpoèinku
 
 **§ 90a**
 Nepøetritı denní odpoèinek, zkrácenı v rozsahu podle § 90 odst. 2, mùe bıt zamìstnanci staršímu 18 let nahrazen pøi sezónních pracích v zemìdìlství tak, e mu bude poskytnut v období následujících 3 tıdnù od jeho zkrácení.
@@ -332,8 +197,95 @@ h) krmení a ošetøování zvíøat.
 3. Jestlie to umoòuje provoz zamìstnavatele, poskytne zamìstnavatel nepøetritı odpoèinek v tıdnu podle odstavcù 1 a 2 všem zamìstnancùm na stejnı den a tak, aby do nìho spadala nedìle.
 4. V pøípadech uvedenıch v § 90 odst. 2 a u technologickıch procesù, které nemohou bıt pøerušeny, mùe zamìstnavatel zkrátit nepøetritı odpoèinek v tıdnu podle odstavce 1 pouze tak, aby délka jeho trvání èinila nejménì 24 hodin. V tomto pøípadì mùe bıt nepøetritı denní odpoèinek zkrácen podle § 90 odst. 2, a to za podmínky, e doba, o kterou se zkrátil, nesmí bıt poskytnuta samostatnì, ale jen s následujícím nepøetritım odpoèinkem v tıdnu tak, aby zamìstnanci byl poskytnut za období 2 tıdnù nepøetritı odpoèinek v tıdnu v délce alespoò 70 hodin.
 5. V zemìdìlství je moné dohodnout zkrácení nepøetritého odpoèinku v tıdnu. V tomto pøípadì mùe bıt nepøetritı denní odpoèinek zkrácen podle § 90 odst. 2, a to za podmínky, e doba, o kterou se zkrátil, nesmí bıt poskytnuta samostatnì, ale jen s jinım nepøetritım odpoèinkem v tıdnu tak, aby zamìstnanci byl poskytnut nepøetritı odpoèinek v tıdnu za období
-a) 3 tıdnù v délce alespoò 105 hodin,
-b) 6 tıdnù v délce alespoò 210 hodin pøi sezónních pracích.
+a. 3 tıdnù v délce alespoò 105 hodin,
+b. 6 tıdnù v délce alespoò 210 hodin pøi sezónních pracích.
+
+### Hlava 5.	§ 93 - § 93a	Práce pøesèas
+
+**§ 93**
+1. Práci pøesèas je moné konat jen vıjimeènì.
+2. Práci pøesèas mùe zamìstnavatel zamìstnanci naøídit jen z vánıch provozních dùvodù, a to i na dobu nepøetritého denního odpoèinku, popøípadì za podmínek uvedenıch v § 91 odst. 2 a 4 i na dny pracovního klidu. Naøízená práce pøesèas nesmí u zamìstnance èinit více ne 8 hodin v jednotlivıch tıdnech a 150 hodin v kalendáøním roce.
+Zamìstnavatel mùe poadovat práci pøesèas nad rozsah uvedenı v odstavci 2 pouze na základì dohody se zamìstnancem.
+Celkovı rozsah práce pøesèas nesmí èinit v prùmìru více ne 8 hodin tıdnì v období, které mùe èinit nejvıše 26 tıdnù po sobì jdoucích. Jen kolektivní smlouva mùe vymezit toto období nejvıše na 52 tıdnù po sobì jdoucích.
+Do poètu hodin nejvıše pøípustné práce pøesèas ve vyrovnávacím období podle odstavce 4 se nezahrnuje práce pøesèas, za kterou bylo zamìstnanci poskytnuto náhradní volno.
+
+**§ 93a - Další dohodnutá práce pøesèas ve zdravotnictví**
+1. Další dohodnutou prací pøesèas ve zdravotnictví (dále jen „další dohodnutá práce pøesèas“) se rozumí práce v nepøetritém provozu spojená s poskytováním zdravotních slueb poskytovatelem lùkové péèe nebo poskytovatelem zdravotnické záchranné sluby, kterou vykonává
+a. lékaø, zubní lékaø nebo farmaceut120),
+b. zdravotnickı pracovník nelékaøskıch zdravotnickıch povolání pracující v nepøetritém pracovním reimu121), (dále jen „zamìstnanec ve zdravotnictví“).
+Další dohodnutá práce pøesèas je práce konaná nad rozsah uvedenı v § 93 odst. 4.
+2. Zamìstnanec ve zdravotnictví, kterı nesouhlasí s vıkonem další dohodnuté práce pøesèas, nesmí bıt k jejímu sjednání nucen ani bıt vystaven jakékoli újmì. O uplatnìní další dohodnuté práce pøesèas je zamìstnavatel povinen písemnì vyrozumìt pøíslušnı orgán inspekce práce.
+3. Další dohodnutá práce pøesèas zamìstnancù ve zdravotnictví nesmí pøesáhnout v prùmìru 8 hodin tıdnì a v pøípadì zamìstnancù zdravotnické záchranné sluby v prùmìru 12 hodin tıdnì v období, které mùe èinit nejvıše 26 tıdnù po sobì jdoucích; jen kolektivní smlouva mùe toto období vymezit na nejvıše 52 tıdnù po sobì jdoucích.
+4. Dohoda o další dohodnuté práci pøesèas
+a. musí bıt sjednána písemnì, jinak je neplatná,
+b. nesmí bıt sjednána v prvních 12 tıdnech ode dne vzniku pracovního pomìru,
+c. nesmí bıt sjednána na dobu delší ne 52 tıdnù po sobì jdoucích,
+d. mùe bıt okamitì zrušena, a to i bez udání dùvodu v období 12 tıdnù od sjednání; okamité zrušení musí bıt provedeno písemnì a doruèeno druhému úèastníku,
+e. mùe bıt vypovìzena z jakéhokoliv dùvodu nebo bez uvedení dùvodu; vıpovìï musí bıt dána písemnì a doruèena druhému úèastníku. Pokud nebyla vıpovìdní doba sjednána kratší, èiní 2 mìsíce a musí bıt stejná pro zamìstnavatele i zamìstnance ve zdravotnictví.
+5. Zamìstnavatel vede aktuální seznam všech zamìstnancù ve zdravotnictví vykonávajících další dohodnutou práci pøesèas.
+6. Pokud se v tomto ustanovení nestanoví nìco jiného, platí pro další dohodnutou práci pøesèas obdobnì ustanovení zákoníku práce tıkající se práce pøesèas.
+
+### Hlava 6.	§ 94	Noèní práce
+
+**§ 94- Noèní práce**
+1. Délka smìny zamìstnance pracujícího v noci nesmí pøekroèit 8 hodin v rámci 24 hodin po sobì jdoucích; není-li to z provozních dùvodù moné, je zamìstnavatel povinen rozvrhnout stanovenou tıdenní pracovní dobu tak, aby prùmìrná délka smìny nepøekroèila 8 hodin v období nejdéle 26 tıdnù po sobì jdoucích, pøièem pøi vıpoètu prùmìrné délky smìny zamìstnance pracujícího v noci se vychází z pìtidenního pracovního tıdne.
+2. Zamìstnavatel je povinen zajistit, aby zamìstnanec pracující v noci byl vyšetøen poskytovatelem pracovnìlékaøskıch slueb v pøípadech a za podmínek stanovenıch pro pracovnìlékaøské sluby zákonem o specifickıch zdravotních slubách. Úhrada poskytnutıch zdravotních slueb nesmí bıt na zamìstnanci poadována.
+3. Zamìstnavatel je povinen zajišovat pro zamìstnance pracující v noci pøimìøené sociální zajištìní, zejména monost obèerstvení.
+4. Pracovištì, na kterém se pracuje v noci, je zamìstnavatel povinen vybavit prostøedky pro poskytnutí první pomoci, vèetnì zajištìní prostøedkù umoòujících pøivolat rychlou lékaøskou pomoc.
+
+### Hlava 7.	§ 95	Pracovní pohotovost
+
+**§ 95 Pracovní pohotovost**
+1. Pracovní pohotovost mùe zamìstnavatel na zamìstnanci poadovat jen, jestlie se o tom se zamìstnancem dohodne. Za dobu pracovní pohotovosti pøísluší zamìstnanci odmìna podle § 140.
+2. Za vıkon práce v dobì pracovní pohotovosti pøísluší zamìstnanci mzda nebo plat; odmìna podle § 140 za tuto dobu nepøísluší. Vıkon práce v dobì pracovní pohotovosti nad stanovenou tıdenní pracovní dobu je prací pøesèas (§ 93).
+3. Pracovní pohotovost, pøi které k vıkonu práce nedojde, se do pracovní doby nezapoèítává.
+
+### Hlava 8.	§ 96 - § 99	Spoleèná ustanovení o pracovní dobì a dobì odpoèinku
+
+**§ 96**
+1. Zamìstnavatel je povinen vést u jednotlivıch zamìstnancù evidenci s vyznaèením zaèátku a konce
+a. odpracované
+1.1 smìny [§ 78 odst. 1 písm. c)],
+1.2 práce pøesèas [§ 78 odst. 1 písm. i) a § 93],
+1.3 další dohodnuté práce pøesèas ( § 93a),
+1.4 noèní práce (§ 94),
+1.5 doby v dobì pracovní pohotovosti (§ 95 odst. 2),
+b. pracovní pohotovosti, kterou zamìstnanec drel [§ 78 odst. 1 písm. h) a § 95].
+2. Na ádost zamìstnance je zamìstnavatel povinen umonit zamìstnanci nahlédnout do jeho úètu pracovní doby nebo evidence pracovní doby a do jeho úètu mzdy a poøizovat si z nich vıpisy, popøípadì stejnopisy na náklady zamìstnavatele.
+
+**§ 97**
+1. Pøekáky v práci na stranì zamìstnance pøi pruném rozvrení pracovní doby se posuzují jako vıkon práce jen v rozsahu, ve kterém zasáhly do základní pracovní doby.
+2. Pøi pøekákách v práci na stranì zamìstnance pøi pruném rozvrení pracovní doby, vymezenıch pøesnou délkou nezbytnì nutné doby, po kterou pøísluší zamìstnanci pracovní volno, nebo jde-li o èinnost v pøípadech uvedenıch v § 203 odst. 2 písm. a), se posuzuje jako vıkon práce celá tato doba.
+3. Pøekáky v práci na stranì zamìstnavatele pøi pruném rozvrení pracovní doby se posuzují jako vıkon práce, jestlie zasáhly do smìny zamìstnance, a to za kadı jednotlivı den v rozsahu prùmìrné délky smìny.
+4. Za dobu 1 dne se povauje pro úèely odstavcù 1 a 3 doba odpovídající prùmìrné délce smìny vyplıvající ze stanovené tıdenní pracovní doby nebo z kratší pracovní doby.
+5. Pøi uplatnìní konta pracovní doby se pracovní volno pro pøekáky v práci na stranì zamìstnance poskytuje v rozsahu nezbytnì nutné doby, popøípadì v rozsahu délky smìny rozvrené zamìstnavatelem na pøíslušnı den.
+
+**§ 98**
+1. Práce pøesèas pøi uplatnìní pruného rozvrení pracovní doby se zjišuje vdy jako práce nad stanovenou tıdenní pracovní dobu a nad základní pracovní dobu.
+2. Prací pøesèas pøi uplatnìní konta pracovní doby je práce konaná nad stanovenou tıdenní pracovní dobu, která je násobkem stanovené tıdenní pracovní doby a poètu tıdnù vyrovnávacího období podle § 86 odst. 3 nebo podle § 87 odst. 3.
+
+**§ 99**
+Opatøení tıkající se hromadné úpravy pracovní doby, práce pøesèas, monost naøizovat práci ve dnech pracovního klidu a noèní práci se zøetelem na bezpeènost a ochranu zdraví pøi práci je zamìstnavatel povinen pøedem projednat s odborovou organizací.
+
+### Hlava 9.	§ 100	Zmocòovací ustanovení
+
+**§ 100**
+1. Vláda stanoví naøízením odchylky úpravy pracovní doby a doby odpoèinku zamìstnancù v dopravì, jimi jsou
+a. èlenové osádky nákladního automobilu nebo autobusu24),
+b. zamìstnanci údrby pozemních komunikací25),
+c. zamìstnanci drání dopravy na dráze celostátní, regionální a vleèce26),
+d. zamìstnanci mìstské hromadné dopravy27),
+e. èlenové posádky letadla a zamìstnanci zajišující provozování letištì28),
+pøitom blíe vymezí okruh zamìstnancù uvedenıch v písmenech a) a e) a upraví postup a další povinnosti zamìstnavatele a zamìstnancù pøi úpravì pracovní doby a doby odpoèinku.
+2. Vláda mùe stanovit naøízením odchylky úpravy pracovní doby a doby odpoèinku èlenù jednotky hasièského záchranného sboru podniku31), kterı je sloen ze zamìstnancù zamìstnavatele, kteøí vykonávají èinnost v této jednotce jako své zamìstnání, jejich pracovní povinnosti zahrnují pøímé plnìní úkolù této jednotky; to však neplatí, pokud jde o délku stanovené tıdenní pracovní doby. Délka smìny v pøípadì odchylek podle vìty první pøi nerovnomìrném rozvrení pracovní doby nesmí pøesáhnout 16 hodin.
+
+
+
+
+
+
+
+
 
 
 
